@@ -12,6 +12,7 @@ public class App {
 
 		helloWorld = new HelloWorld("Hello world from constructor");
 		System.out.println(helloWorld);
+		System.err.println("test");
 
 	}
 
